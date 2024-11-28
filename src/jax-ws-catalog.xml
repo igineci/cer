@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://webservices.nbs.rs/CommunicationOfficeService1_0/ExchangeRateXmlService.asmx?WSDL" uri="wsdl/webservices.nbs.rs/CommunicationOfficeService1_0/ExchangeRateXmlService.asmx.wsdl"/>
+</catalog>
